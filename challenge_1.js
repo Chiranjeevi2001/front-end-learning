@@ -15,4 +15,4 @@ const myObject = {
 
 console.log(myObject);
 
-console.log(myObject['sumProperty']);
+console.log(myObject.firstProperty[0]);

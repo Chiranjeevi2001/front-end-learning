@@ -1,3 +1,5 @@
+//JavaScript Variables!
+
 // Javascript is a dynamically typed language (datatypes are determined during runtime)
 /* datatypes (or what could be allowed on the right side of '=')
 1. String
@@ -8,6 +10,9 @@
 6. Boolean
 7. Arrays
 */
+
+/* Use const when value will not change,
+else use let*/
 
 const var1 = 'hello world'; //string
 const var2 = 100; //number
