@@ -44,7 +44,7 @@ console.log('------Logical Operators--------');
 
 const res1 = 20 === 20; // both value and type are checked
 
-console.log(res1);
+console.log(res);
 
 const numberVal = 20;
 const stringVal = "20";
