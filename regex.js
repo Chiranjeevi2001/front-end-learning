@@ -78,3 +78,11 @@ const str = 'Hello world, 2024 @ more of a string';
 const regex3 = /^[A-Z][a-z ]*,\s[0-9 ]+@[a-z ]+$/;
 
 console.log("Result:"+regex3.test(str));
+
+console.log();
+console.log("Test");
+const r1 = /[a-z ]{7}/g;
+
+const str4 = "abend klein stadt Muchen";
+
+console.log(r1.exec(str4));
