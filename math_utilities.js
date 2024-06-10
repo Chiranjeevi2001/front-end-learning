@@ -14,3 +14,5 @@ console.log(Math.min(-8,0, 12, -45, 6, 7));
 
 console.log(Math.max(-8,0, 12, -45, 6, 7));
 
+console.log(Math.random()); // returns a random number between 0 and 1
+
